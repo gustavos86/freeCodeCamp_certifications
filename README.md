@@ -17,3 +17,9 @@ https://www.freecodecamp.org/certification/gustavo86/a2-english-for-developers
 https://www.freecodecamp.org/certification/gustavo86/b1-english-for-developers
 
 ![](B1_English_for_Developers.png)
+
+# Python
+
+https://www.freecodecamp.org/certification/gustavo86/python-v9
+
+![](Python.png)
