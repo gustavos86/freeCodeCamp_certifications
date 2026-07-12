@@ -23,3 +23,9 @@ https://www.freecodecamp.org/certification/gustavo86/b1-english-for-developers
 https://www.freecodecamp.org/certification/gustavo86/python-v9
 
 ![](Python.png)
+
+# JavaScript
+
+https://www.freecodecamp.org/certification/gustavo86/javascript-v9
+
+![](JavaScript.png)
